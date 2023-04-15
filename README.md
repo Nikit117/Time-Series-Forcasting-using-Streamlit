@@ -1,5 +1,6 @@
 # Time Series Data Forecasting using CNN-LSTM, N-BEATS and Ensemble Model
 This Streamlit app allows users to upload their time series data and choose from three models to perform forecasting: CNN-LSTM, N-BEATS, and Ensemble Model.
+[Watch video Demo here](https://www.linkedin.com/posts/activity-7017968597385822208-7cnn?utm_source=share&utm_medium=member_desktop)
 ## Usage
 To use this app, follow the steps below:
 
